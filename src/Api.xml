@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productDetails>
+<productName>Samsung s20</productName>
+<qty>1</qty>
+<prize>78000</prize>
+<orderId>123</orderId>
+<address>
+<streetName>Pallavaram</streetName>
+<city>Chennai</city>
+<district>Chennai</district>
+<state>Tamilnadu</state>
+<country>India</country>
+</address>
+<contactDetails>
+<emailId>sundarbalaji96@gmail.com</emailId>
+<mobileNo>8220411343</mobileNo>
+</contactDetails>
+
+<productName>Samsung A70</productName>
+<qty>1</qty>
+<prize>30000</prize>
+<orderId>124</orderId>
+<address>
+<streetName>guindy</streetName>
+<city>Chennai</city>
+<district>Chennai</district>
+<state>Tamilnadu</state>
+<country>India</country>
+</address>
+<contactDetails>
+<emailId>sundarbalaji96@gmail.com</emailId>
+<mobileNo>8220411343</mobileNo>
+</contactDetails>
+
+<productName>IPHONE 11PRO</productName>
+<qty>1</qty>
+<prize>80000</prize>
+<orderId>125</orderId>
+<address>
+<streetName>chromepet</streetName>
+<city>Chennai</city>
+<district>Chennai</district>
+<state>Tamilnadu</state>
+<country>India</country>
+</address>
+<contactDetails>
+<emailId>sundarbalaji96@gmail.com</emailId>
+<mobileNo>8220411343</mobileNo>
+</contactDetails>
+</productDetails>
+
+
